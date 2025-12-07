@@ -36,9 +36,32 @@ I enjoy learning new technologies and creating real-world projects that showcase
 ---
 
 ### 📌 Projects
-- 🔹 **E-Commerce Frontend** – Responsive UI & cart system  
-- 🔹 **Portfolio Website** – Clean personal portfolio built with HTML/CSS/JS  
-- 🔹 **Java Mini Projects** – OOP-based hands-on applications  
+
+🔹 **🛒 Full-Stack E-Commerce Application**  
+A complete e-commerce platform with:  
+- Product listing  
+- Cart and order management  
+- User authentication (Login/Register)  
+- Secure backend APIs  
+Tech Used: **Java, Spring Boot, MySQL, HTML, CSS, JavaScript**
+
+🔹 **🌐 Personal Portfolio Website**  
+A fully responsive portfolio built using HTML, CSS, and JavaScript.  
+Showcases my skills, education, GitHub, LinkedIn, certifications, and projects in a clean, modern layout.
+
+🔹 **☕ Java Mini Projects (OOP & Backend Practice)**  
+A collection of Java practice projects demonstrating:  
+- OOP concepts  
+- Collections  
+- File handling  
+- Exception handling  
+- CRUD operations  
+These projects helped me strengthen my core Java fundamentals.
+
+🔹 **📁 More Projects**  
+You can find more of my work—including frontend, backend, and practice repositories—here:  
+👉 **[View All Repos](https://github.com/palakolludivya?tab=repositories)**
+
 ---
 
 ### 🤝 Connect with Me
