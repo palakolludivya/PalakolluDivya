@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Divya!
 
-I'm an aspiring **Java Developer** passionate about building clean, user-friendly, and scalable applications.  
+🎯 I'm an aspiring **Java Developer** passionate about building clean, user-friendly, and scalable applications.  
 I enjoy learning new technologies and creating real-world projects that showcase my skills.
 
 ---
