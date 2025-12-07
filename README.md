@@ -9,9 +9,6 @@ I enjoy learning new technologies and creating real-world projects that showcase
 - 🔭 I’m currently working on **Java, Spring Boot & Frontend Projects**
 - 🌱 Learning **APIs, SQL, and full-stack development**
 - 👯 Looking to collaborate on **Java + Web development projects**
-- 💬 Ask me about **Java, Jdbc, Hibernate, Spring, Springboot, HTML, CSS, JavaScript, and SQL**
-- 📫 How to reach me: **palakolludivya@gmail.com**
-
 ---
 
 ### 🛠️ Tech Stack
