@@ -14,12 +14,16 @@ I enjoy learning new technologies and creating real-world projects that showcase
 ### 🛠️ Tech Stack
 **Languages & Frameworks:**  
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-%23007ACC.svg?style=for-the-badge&logo=java&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-%23EF2D36.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+
 
 **Databases:**  
 
@@ -84,6 +88,7 @@ Hands-on Java mini programs focusing on:
 - 📌 File Handling  
 
 **Tech:**  
+
 ![Java](https://img.shields.io/badge/Java-orange?logo=java)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse&logoColor=white)
 
