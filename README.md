@@ -26,14 +26,13 @@ I enjoy learning new technologies and creating real-world projects that showcase
 - 🔹 **E-Commerce Frontend** – Responsive UI & cart system  
 - 🔹 **Portfolio Website** – Clean personal portfolio built with HTML/CSS/JS  
 - 🔹 **Java Mini Projects** – OOP-based hands-on applications  
-- *(More projects coming soon!)*
-
 ---
 
 ### 🤝 Connect with Me
 - 🌐 LinkedIn: [Divya Palakollu](https://www.linkedin.com/in/divya-palakollu/)  
 - 💻 GitHub: [palakolludivya](https://github.com/palakolludivya)
 - 🖥️ Portfolio: [My Portfolio](https://iridescent-sprinkles-add2d9.netlify.app/)
+- 📫 Email: palakolludivya@gmail.com
 ---
 
 ⭐ **Thanks for visiting my profile!**  
