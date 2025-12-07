@@ -44,8 +44,10 @@ A fully functional e-commerce platform featuring:
 - 🔐 User Authentication (Login/Register)
 - 🛍️ Product Listing & Details
 - 🛒 Cart & Order Management
-- ⚙️ REST APIs with Spring Boot  
+- ⚙️ REST APIs with Spring Boot
+  
 **Tech:**  
+
 ![Java](https://img.shields.io/badge/Java-orange?logo=java)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
@@ -53,7 +55,6 @@ A fully functional e-commerce platform featuring:
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-👉 *More features being added soon!*
 
 ---
 
@@ -88,7 +89,8 @@ Hands-on Java mini programs focusing on:
 ---
 
 #### 📁 **More Projects**
-Explore all my repositories and practice work:  
+Explore all my repositories and practice work: 
+
 👉 **[View All Repos](https://github.com/palakolludivya?tab=repositories)**
 
 ---
