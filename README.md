@@ -21,8 +21,9 @@ I enjoy learning new technologies and creating real-world projects that showcase
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-%23007ACC.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-%23EF2D36.svg?style=for-the-badge&logo=hibernate&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-4D4D4D?style=for-the-badge&logo=springboot&logoColor=white)
+
 
 
 **Databases:**  
